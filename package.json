@@ -1,0 +1,13 @@
+{
+  "name": "miniguid",
+  "version": "0.1.0",
+  "description": "A shorter GUID for js that renders 22 chars string",
+  "main": "index.js",
+  "repository": "https://github.com/yonatanKreiner/miniguid.git",
+  "author": "Yonatan Kreiner <yonatankreiner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "base64url": "^2.0.0",
+    "guid": "^0.0.12"
+  }
+}
